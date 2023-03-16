@@ -1,0 +1,23 @@
+name: flutter_demos
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  alice: ^0.2.5
+  http: ^0.13.4
+  fwfh_text_style: ^2.13.0-master.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
